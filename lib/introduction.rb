@@ -5,7 +5,7 @@
 
 
 def introduction(name)
-  puts #{J}
+  puts 
 
 
 
